@@ -1,0 +1,58 @@
+.topnav {
+    background-color: black;
+    overflow: hidden;
+}
+
+.topnav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 16px 16px;
+    text-decoration: none;
+    font-size: 10px;
+}
+
+.topnav input[type=text] {
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: flex-start;
+    background-color: rgb(47, 110, 204);
+    color: white;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 50px;
+  }
+
+  .dfa {
+    width: 25px;
+    height: 25px;
+    background-color: rgb(47, 110, 204)
+  }
+
+  .flex-container a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 16px 16px;
+    text-decoration: none;
+    font-size: 10px;
+}
+
+.no {
+    width: 145px;
+    height: 190px;
+    background-color: lightgray;
+}
+
+.flex-container-text {
+    background-color: lightgray;
+    color: black;
+    font-size: 25px;
+}
